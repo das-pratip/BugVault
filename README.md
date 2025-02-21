@@ -9,7 +9,6 @@ BugVault is a bug tracking application created with the help of python language 
   * [Design Pattern](#design-pattern)
   * [S.O.L.I.D Principles](#solid-principles)
   * [Database Models](#database-models)
-  * [Author](#author)
   * [Common Errors](#common-errors)
   * [Screenshots](#screenshots)
     + [Login Page](#login-page)
@@ -106,9 +105,6 @@ You write the pure data or your template in your new Model class. Develop a GUI 
 
 ## Database Models
 [Database Models](Database%20Models)
-
-## Author
-[Yousef Kotp](https://github.com/yousefkotp)
 
 ## Common Errors
 > You should open your IDE. File->Project Structure->Module. You should mark each folder you find inside "src" folder as a source. If you don't do so you can face many errors.
